@@ -2,6 +2,12 @@
 
 Lightweight markdown-based documentation website generator written in PHP. Simply create your markdown files and it will do the rest for you, let's create a beautiful and responsive documentation website.
 
+
+![Screenshot_8](https://gist.github.com/user-attachments/assets/b2887f5e-bb27-46ef-ab0f-8c1d26663109)
+
+![Screenshot_7](https://gist.github.com/user-attachments/assets/8fd236f4-96cc-44a2-ae42-3a489dafb741)
+
+
 ## Features
 - Lightweight (less than 100KB gzipped)
 - No static HTML files
@@ -28,8 +34,8 @@ The documentation website itself was made with phpMarkDocs, so this is a great e
 - Apache 2.4 or newer
 
 ## Todo
- - [] Markdovn caching
- - [] Support for other webservers
+ - [ ] Markdovn caching
+ - [ ] Support for other webservers
 
 
  ## License
