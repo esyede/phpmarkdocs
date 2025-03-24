@@ -31,7 +31,6 @@ The documentation website itself was made with phpMarkDocs, so this is a great e
 ## System requirements
 - PHP 5.4 or newer
 - PHP mbstring extesnsion
-- PHP pathinfo extension
 - Apache 2.4 or newer
 
 ## Todo
