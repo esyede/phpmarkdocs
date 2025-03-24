@@ -1,0 +1,32 @@
+{
+    "name": "esyede/phpmarkdocs",
+    "description": "Lightweight markdown-based documentation website generator written in PHP",
+    "keywords": [
+        "documentation",
+        "markdown",
+        "generator"
+    ],
+    "homepage": "https://github.com/esyede/phpmarkdocs",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Suyadi",
+            "email": "suyadi.1992@gmail.com",
+            "homepage": "https://github.com/esyede/phpmarkdocs",
+            "role": "Project Lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/esyede/phpmarkdocs/issues?state=open",
+        "forum": "https://github.com/esyede/phpmarkdocs/discussions",
+        "source": "https://github.com/esyede/phpmarkdocs"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "ext-mbstring": "*",
+        "ext-pathinfo": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

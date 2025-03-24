@@ -18,3 +18,5 @@
 /cache export-ignore
 /.php_cs.dist export-ignore
 /.htaccess export-ignore
+/composer.json export-ignore
+/composer.lock export-ignore
