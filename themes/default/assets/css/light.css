@@ -5,11 +5,11 @@
 :root {
     --bg-color: #ffffff;
     --menu-bg-color: #fafafa;
-    --text-color: #212121;
-    --primary-color: #26a69a;
-    --secondary-color: #80cbc4;
+    --text-color: #212529;
+    --primary-color: #0d6efd;
+    --secondary-color: #cfe2ff;
     --code-block-color: #f8f8f8;
     --menu-border-color: lightgray;
-    --header-bg-color: #26a69a;
+    --header-bg-color: #0d6efd;
     --header-text-color: #ffffff;
 }
