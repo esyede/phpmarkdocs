@@ -1,10 +1,15 @@
 # Installation
-1. Download the [latest release](https://github.com/esyede/phpmarkdocs/releases/latest) and unpack it to your web server.
-2. Point your server to phpMarkDocs root directory. We'll do the rest for you.
 
-That's all! Simple, isn't it?
+Installing phpMarkDocs is really a breeze:
 
-### Setup your docs
-You'll probably want to [configure](getting-started/configuration) your docs before getting started.
+1. Grab the [latest release](https://github.com/esyede/phpmarkdocs/releases/latest) and deploy it to your web server.
+2. Direct your server to the heart of the phpMarkDocs engine – the root directory. Consider it done! We'll handle the rest of the heavy lifting.
 
-If you want to skip this step and jump straight into writing your docs, [be happy](getting-started/basic-overview).
+Boom! You're in! Seriously, it's that ridiculously easy.
+
+
+### Power up your documentation!
+
+Before you unleash your inner wordsmith, you might want to fine-tune your setup. Head over to the [configure](getting-started/configuration) section to customize your documentation.
+
+Want to dive headfirst into creating your masterpiece? Then [rejoice!](getting-started/basic-overview) The writing adventure awaits!

@@ -8,4 +8,3 @@
 
 ### Customization
 - [Themes](customization/themes)
-- [Assets](customization/assets)

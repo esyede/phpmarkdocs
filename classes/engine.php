@@ -210,6 +210,7 @@ class Engine
         $content = preg_replace('/(?<!\\\)%%latest%%/i', $this->latest, $content);
         $content = preg_replace('/(?<!\\\)%%app%%/i', Util::config('app_name', 'phpMarkDocs'), $content);
         $content = preg_replace('/(?<!\\\)%%route%%/i', $this->route, $content);
+        $content = preg_replace('/(?<!\\\)%%theme%%/i', Util::config('theme', 'default'), $content);
         $content = preg_replace('/\\\%%(.+)%%/i', '%%$1%%', $content);
         return $content;
     }
@@ -253,8 +254,8 @@ class Engine
     {
         $versions = array_values($versions);
         usort($versions, function ($a, $b) {
-            return version_compare($a, $b, '>');
+            return version_compare($a, $b, '<');
         });
-        return array_reverse($versions);
+        return $versions;
     }
 }

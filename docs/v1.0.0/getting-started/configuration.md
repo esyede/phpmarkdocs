@@ -3,25 +3,25 @@ Your documentation configuration can be found at the root `config.php` file. The
 
 The options within this file are:
 
-`application`
-Your application title, basically the name that will be displayed in the documentation titles.
-
-`generate_menu`
-Enables the automatic sidenav menu generation, if the custom menu file for the current version is not provided.
-
-`git_edit`
-Enables the "Edit this page on GitHub" button.
-When enabled, this button will take the user directly to edit the current page in your application repository on GitHub.
-
-`git_url`
-Your application GitHub edit URL, including the branch.
-Example: https://github.com/esyede/phpmarkdocs/edit/master
-
-`md_breaks`
-Enables the support for single line breaks in your Markdown files.
-
-`md_urls`
-Enables the automatic URL link generation in your Markdown files.
-
-`search`
-Enables search feature to search in docs content.
+  - `app_name`
+    Your application title, basically the name that will be displayed in the documentation titles.
+  - `lang`
+    Your application language
+  - `start_point`
+    An "index" file of your docs, it will be rendered as your home page content.
+  - `menu_file`
+    The sidebar menu file
+  - `generate_menu`
+    Enables the automatic sidenav menu generation, if the custom menu file for the current version is not provided.
+  - `git_edit`
+    Enables the "Edit this page on GitHub" button.
+    When enabled, this button will take the user directly to edit the current page in your application repository on GitHub.
+  - `git_url`
+    Your application GitHub edit URL, including the branch.
+    Example: https://github.com/esyede/phpmarkdocs/edit/main
+  - `md_breaks`
+    Enables the support for single line breaks in your Markdown files.
+  - `md_urls`
+    Enables the automatic URL link generation in your Markdown files.
+  - `search`
+    Enables search feature to search in docs content.

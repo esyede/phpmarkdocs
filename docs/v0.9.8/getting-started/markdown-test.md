@@ -1,4 +1,4 @@
-# Markdown Test Page
+# Markdown test page
 
 * [Headings](#Headings)
 * [Paragraphs](#Paragraphs)

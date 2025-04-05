@@ -14,7 +14,4 @@ return [
     'md_breaks' => true,
     'md_urls' => true,
     'search' => true,
-    'logo_file' => '../assets/images/logo.png',
-    'dark_logo_file' => '../assets/images/logo-dark.png',
-    'favicon_file' => '../assets/images/favicon.png'
 ];

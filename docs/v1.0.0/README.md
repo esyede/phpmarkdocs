@@ -1,13 +1,14 @@
 # Welcome
-_Welcome to phpMarkDocs!_
+
+*Welcome to phpMarkDocs!*
 
 > You are now ready to create beautiful documentations.
 
-Here you will find everything about how to start using this tool to create documentation websites in a very fast and intuitive way.
+Unleash the power of lightning-fast documentation! Within these digital walls lies the key to crafting stunning documentation websites with unparalleled speed and breathtaking ease.
 
-For reporting bugs, asking for new features and collaborating with phpMarkDocs development, see our [issues page](https://github.com/esyede/phpmarkdocs/issues) and feel free to create a [pull request](https://github.com/esyede/phpmarkdocs/pulls).
+But that's not all! Want to join the adventure? Become a vital part of the phpMarkDocs revolution! Hunt down those pesky bugs, ignite our imaginations with brilliant new features, and collaborate with fellow pioneers on our dedicated [issues page](https://github.com/esyede/phpmarkdocs/issues).
 
-Let's begin!
+Ready to leave your mark? Forge your own path and submit a [pull request](https://github.com/esyede/phpmarkdocs/pulls).
 
-### Credits
-phpMarkDocs is proudly developed by [Suyadi](https://github.com/esyede), with dependencies provided by [Parsedown](https://parsedown.org), [highlight.js](https://highlightjs.org), [Bootstrap](https://getbootstrap.com) and [Font Awesome](https://fontawesome.com).
+
+The journey to documentation mastery begins NOW!

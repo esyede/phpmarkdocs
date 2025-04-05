@@ -1,8 +1,8 @@
 # Themes
+
 You can create themes to customize your documentation colors in a very easy way.
 
-A theme is a CSS file stored inside `assets/css/themes` folder.
+A theme is a CSS file stored inside `themes` folder.
 
-To change a theme color, edit the variables inside this file, as you wish. phpMarkDocs will automatically switch between light and dark themes accordingly with the user setting.
-
-The syntax highlighter themes are provided by [highlight.js](https://highlightjs.org/static/demo) and imported into the theme files.
+To add new theme, copy the `themes/default` folder to `themes\mytheme` then starts editing your theme.
+To activate your new thwmw, edit the `config.php` file and change `'theme' => 'default',` to `'theme' => 'mytheme',`
